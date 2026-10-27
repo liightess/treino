@@ -1,0 +1,14 @@
+{
+  "name": "Rumo a 100 · 25",
+  "short_name": "100·25",
+  "description": "Rotina de flexões e barras com check-in, streak e progresso",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0612",
+  "theme_color": "#7c3aed",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
